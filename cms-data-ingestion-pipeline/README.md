@@ -6,7 +6,7 @@ The **HealthClaim Standardizer** project is designed to address a major challeng
 
 The core goal is to create a unified raw layer (Standard Schema) in the Data Warehouse, allowing analytics teams to run queries and analytical models across the entire dataset without worrying about the original source format.
 
-<img width="647" height="342" alt="hide" src="https://github.com/user-attachments/assets/1edbf7a4-dc02-4594-a2b6-abc3a3248f77" />
+<img width="647" height="341" alt="hide" src="https://github.com/user-attachments/assets/1edbf7a4-dc02-4594-a2b6-abc3a3248f77" />
 
 ---
 
